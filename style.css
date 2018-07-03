@@ -1,0 +1,159 @@
+
+header a {
+  color: rgba(66, 66, 66, .54);
+}
+input {
+
+width: 550px;
+height: 40px;
+border: 1px solid #CCC;
+ margin:20px auto;
+
+    display:block;
+}
+
+input:hover {
+box-shadow: 5px 5px 5px #AAA;
+}
+
+form {
+  margin-top: 35px;
+}
+
+.menu
+ {
+   text-align: right;
+   list-style-type: none;
+   margin: 18px;
+   font-size: 13px;
+
+
+ }
+button.connexion {
+  background-color: #4286F4;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  border: none;
+  border-radius: 2px;
+  height: 30px;
+
+
+}
+
+.recherche {
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 15px;
+  box-shadow: none;
+  border: none;
+  border-radius: 2px;
+  padding: 7px 20px;
+  background-color: #F6F6F6;
+  color: #666666;
+  font-weight: bold;
+  font-size: 12px;
+
+
+
+
+}
+
+.recherche:hover {
+  color: black;
+}
+
+.menuli {
+  display: inline;
+  margin: 3px;
+  padding: 3px;
+
+}
+
+#nav_footer {
+    float: left;
+    left: 0px;
+    border-top: 5px;
+
+}
+#nav_footer1 li {
+
+    display: inline-block;
+    left: 0px;
+    margin-right: 2.5em;
+    margin-top: 16px;
+
+
+}
+
+#nav_footer2 li {
+
+    display: inline-block;
+    left: 0px;
+    margin-left: 3.5em;
+    margin-top: 16px;
+    padding-left: 18px;
+
+}
+
+
+footer {
+    width: 100%;
+    position: fixed;
+    left:0px;
+    bottom:0px;
+    background-color: #f2f2f2;
+    margin-left: 0px;
+    color: rgba(0, 0, 0, .54);
+    text-align: left;
+
+}
+
+.france {
+    margin-left: 40px !important;
+    display: block;
+    border-top: 1px solid #E4E4E4;
+    font-size: 15px;
+    padding-top: 10px;
+
+}
+
+footer a {
+    color: rgba(0, 0, 0, .54);
+
+}
+
+footer a:hover {
+    color: rgba(0, 0, 0, .54);
+}
+
+
+
+.conditions {
+
+    border-top: 1px solid #E4E4E4;
+    margin-left: 0px;
+    font-size: 13px;
+    font-weight: 540;
+    margin-top: 12px;
+    color: #bebbbd;
+
+
+}
+
+
+.footerul {
+
+  list-style-type: none;
+
+}
+
+.footerli {
+  display: inline;
+}
+
+#googlelogo {
+  margin-top: 89px;
+  padding-top: 109px;
+  height: 233px;
+}
